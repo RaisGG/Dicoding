@@ -1,4 +1,5 @@
 # Machine Learning Terapan
+![1](https://github.com/RaisGG/Dicoding/blob/main/Machine%20Learning%20Terapan/asset/mlt.png)
 ## Deskripsi
 Menurut riset yang berjudul 2020 Emerging Job Report, trend perekrutan untuk peran AI specialist tumbuh 74% selama 4 tahun terakhir. AI specialist dinobatkan sebagai peringkat pertama the most emerging job in the US in 2020. Di Indonesia, AI specialist juga menempati urutan pertama. Hal ini karena otomatisasi telah mengubah cara orang hidup dan bekerja setiap harinya. Posisi Machine Learning Developer sangat dicari. Sehingga, di Amerika, posisi ini bisa mendapatkan pekerjaan senilai Rp 1,9 miliar per tahun (Kompas).
 
