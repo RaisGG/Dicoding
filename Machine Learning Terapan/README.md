@@ -10,7 +10,7 @@ Menurut riset yang berjudul 2020 Emerging Job Report, trend perekrutan untuk per
 - Mengerjakan proyek-proyek Machine Learning sebagai portofolio merupakan keahlian yang harus dimiliki untuk mereka yang ingin memulai karier menjadi Machine Learning Developer.
 
 
-##Target dan Sasaran Siswa
+## Target dan Sasaran Siswa
 - Kelas ditujukan bagi machine learning developer yang ingin mempelajari tentang terapan machine learning di berbagai bidang, model predictive analytics, sentiment analisis, computer vision, serta sistem rekomendasi dengan standar mengacu pada standar kompetensi industri. 
 - Kelas dapat diikuti oleh siswa yang melek IT sehingga wajib memiliki dan dapat mengoperasikan komputer dengan baik.
 - Kelas ini didesain untuk siswa yang sudah memiliki pengetahuan dasar mengenai machine learning, seperti supervised dan unsupervised learning, SVM, neural network, dan deployment. 
@@ -18,7 +18,7 @@ Menurut riset yang berjudul 2020 Emerging Job Report, trend perekrutan untuk per
 - Di akhir kelas, siswa dapat belajar mengenai terapan machine learning mulai dari membuat model predictive analytics untuk bisnis dan marketing, sentiment analysis, computer vision untuk pengenalan gambar dan deteksi objek pada gambar, serta sistem rekomendasi.
 
 
-Silabus
+## Silabus
 - Machine Learning System Design : Mempelajari tahapan-tahapan dalam menyusun sistem machine learning dan memahami desain sistem machine learning. (3 jam)
 - Menyusun Proyek Machine Learning : Mempelajari bagaimana tahapan dalam menyusun proyek machine learning, mampu mengomunikasikan dan memublikasikan proyek machine learning untuk membangun portofolio. (1 jam 45 menit)
 - Studi Kasus Pertama terkait Predictive Analytics : Mempelajari algoritma k-Nearest Neighbor, Random Forest, dan AdaBoost serta penerapannya untuk kasus predictive analytics. (4 jam 30 menit)
